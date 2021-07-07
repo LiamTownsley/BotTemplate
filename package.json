@@ -1,0 +1,17 @@
+{
+    "name": "liam-scaffolding-bot",
+    "version": "1.0.0",
+    "description": "This is a repository for my Template Discord Bot, additional features that are requested will be build upon this.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index"
+    },
+    "keywords": [],
+    "author": "Liam Townsley (@root on MC-Market)",
+    "license": "UNLICENSED",
+    "dependencies": {
+        "chalk": "^4.1.1",
+        "discord.js": "^12.5.3",
+        "dotenv": "^10.0.0"
+    }
+}
